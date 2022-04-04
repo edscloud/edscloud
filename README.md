@@ -2,7 +2,7 @@
 - :computer: I’m interested in ...
   - all programming languages
 - :newspaper: I’m currently learning ...
-  - red team / blue team, assembly
+  - ip protocol stack
 
 <!---
 edscloud/edscloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
