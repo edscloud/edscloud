@@ -2,7 +2,7 @@
 - :computer: I’m interested in ...
   - all programming languages
 - :newspaper: I’m currently learning ...
-  - ip protocol stack
+  - Whisper API
 
 <!---
 edscloud/edscloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
